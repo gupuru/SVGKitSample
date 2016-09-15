@@ -1,0 +1,6 @@
+framework module Pods_SVGKitSample {
+  umbrella header "Pods-SVGKitSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
